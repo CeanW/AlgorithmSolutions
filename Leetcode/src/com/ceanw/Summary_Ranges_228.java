@@ -10,6 +10,8 @@ import java.util.List;
  * 使用2个int记录range的始末两端，每次遍历时更新end或者start
  * 注意：数组末值的处理
  *
+ * Test cases: 28
+ * Runtime: 0 ms
  * Time Complexity: O(n)
  * Space Complexity: O(1)
  *
